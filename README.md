@@ -16,12 +16,6 @@ FDC  4877
 ![marco teorico](https://user-images.githubusercontent.com/76136485/108311628-570c2400-7183-11eb-9e4d-fae37c893cbf.jpg)
 
 ### DIAGRAMAS
-![1](https://user-images.githubusercontent.com/76136049/108315237-216a3980-7189-11eb-96b4-15f1f340ab9f.PNG)
-![2](https://user-images.githubusercontent.com/76136049/108315242-2202d000-7189-11eb-83bb-638be2f8f0f4.PNG)
-![3](https://user-images.githubusercontent.com/76136049/108315243-2202d000-7189-11eb-8aaa-5e1d70f749d7.PNG)
-![4](https://user-images.githubusercontent.com/76136049/108315244-2202d000-7189-11eb-8651-c2a885d6311b.PNG)
-![5](https://user-images.githubusercontent.com/76136049/108315245-229b6680-7189-11eb-9f4b-8b2b9347b405.PNG)
-
 
 ### LISTA DE COMPONENTES
 ![componentes](https://user-images.githubusercontent.com/76136049/108154499-f5788680-70aa-11eb-9e3b-2dae38ead770.PNG)
@@ -42,7 +36,10 @@ FDC  4877
 
 ### CONCLUSIONES 
 
-
+- Con el teorema de Thevenin podemos convertiran problemas extensos inentendibles en problemas sencillos obteniendo el mismo resultado.
+- El  Teorema de Thevenin podemos podemos asociarlo con el teorema de Norton porque van a la par y son semejantes.
+- Dominar la teoría y práctica del Teorema de Thevenin nos permitirá realizar ejercicios complejos y anexar un método más para la resolución de circuitos.
+- Se debe reacalcar que al aplicar el teorema a cierta parte del circuito, independientemente de la estructura, no se debe realizar conecciones erróneas o absurdas ya que no se podrá aplicar el teoremaa esa parde la red en especifico.
 
 ### BIBLIOGRAFÍA
 - Floyd, T. L. (2021). Principios De Circuitos Electricos C/Cd Rom (Circuitos ed., Vol. 8) [Libro electrónico]. PRENTICE HALL/PEARSON. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
